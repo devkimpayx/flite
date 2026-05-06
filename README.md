@@ -1,2 +1,0 @@
-# flite
-Finance Lite
